@@ -8,7 +8,7 @@ Clone the repository to your local machine:
 
 bash
 Copy code
-git clone https://github.com/your-username/chuck-norris-jokes.git
+git clone https://github.com/bingo9813/Chuck.git 
 Navigate to the project directory:
 
 bash
